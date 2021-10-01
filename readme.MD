@@ -1,8 +1,10 @@
 # Create backend service to manage warehouse stocks
 
-### API Documentation
+### Important Links
 
-[Click here to go to documentation](https://documenter.getpostman.com/view/14556972/UUy386EL)
+- [Click here to go to documentation](https://documenter.getpostman.com/view/14556972/UUy386EL)
+
+- [Click here to go to deployed API](https://glints-assessment.herokuapp.com)
 
 ### How to install
 
