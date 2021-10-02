@@ -33,7 +33,7 @@ or
 
 1. Create a `.env.test` file
 
-2. In the content, insert the required env variable as shown in `.env.example`. Note that running a test will clear the collection and seed it again before actually running the test, as such, it's recommended to use a different collection for testing.
+2. In the content, insert the required env variable as shown in `.env.example`. Note that running a test will clear the database and seed it again before actually running the test, as such, it's recommended to use a different database for testing.
 
 3. Enter `npm run test` in the console to run test.
 
