@@ -6,6 +6,8 @@
 
 - [Click here to go to deployed API](https://glints-assessment.herokuapp.com)
 
+[Click here to go to live website](https://david-ph.github.io/glints-frontend/)
+
 ### How to install
 
 `npm install`
