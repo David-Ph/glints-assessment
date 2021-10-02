@@ -37,14 +37,6 @@ or
 
 3. Enter `npm run test` in the console to run test.
 
-### How to seed items
-
-`npm run seed:dev`
-
-### How to clear database
-
-`npm run seed:dev:remove`
-
 ### Unit Test Result
 
 ![unit test](https://i.imgur.com/NeZVFbe.png)
