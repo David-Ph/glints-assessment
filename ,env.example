@@ -1,1 +1,1 @@
-MONGO_URI=
+MONGO_URI=mongodb+srv://[DATABASEOWNER]:[DATABASEPASSWORD]@cluster0.par31.mongodb.net/warehouse?retryWrites=true&w=majority
