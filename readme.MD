@@ -8,6 +8,8 @@
 
 - [Click here to go to live website](https://david-ph.github.io/glints-frontend/)
 
+- [Click here to go to Front End Repository](https://github.com/David-Ph/glints-frontend)
+
 ### How to install
 
 `npm install`
